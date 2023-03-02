@@ -32,8 +32,8 @@ function Home() {
                     alt={shoe.name}
                     src={shoe.img}
                   />
-                  <h3 className="shoe-name">{shoe.name} jajhaja</h3>
-                  <h3 className="shoe-price">${shoe.price} sdhvcuwvyciwy</h3>
+                  <h3 className="shoe-name">{shoe.name} sports wear</h3>
+                  <h3 className="shoe-price">${shoe.price} comapany</h3>
                 </div>
               );
             })}
