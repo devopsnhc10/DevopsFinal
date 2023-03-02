@@ -33,7 +33,7 @@ function Home() {
                     src={shoe.img}
                   />
                   <h3 className="shoe-name">{shoe.name} sports wear</h3>
-                  <h3 className="shoe-price">${shoe.price} comapany</h3>
+                  <h3 className="shoe-price">${shoe.price} company</h3>
                 </div>
               );
             })}
