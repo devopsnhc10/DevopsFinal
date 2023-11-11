@@ -1,4 +1,4 @@
-# Project related to a website
+# Related to a Shoe Website
 
 ### *Shoe Showcasing Website for Nike template, I Developed for Practicing purpose.*
 
