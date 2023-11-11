@@ -1,4 +1,4 @@
-# Nike Shoe Store Website
+# Project related to a website
 
 ### *Shoe Showcasing Website for Nike template, I Developed for Practicing purpose.*
 
